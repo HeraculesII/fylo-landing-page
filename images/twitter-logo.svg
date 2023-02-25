@@ -1,0 +1,18 @@
+<svg width="29" height="27" viewBox="0 0 29 27" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<path d="M27.5482 13.5C27.5482 20.7352 21.6694 26.602 14.4157 26.602C7.16198 26.602 1.28321 20.7352 1.28321 13.5C1.28321 6.26479 7.16198 0.397955 14.4157 0.397955C21.6694 0.397955 27.5482 6.26479 27.5482 13.5Z" stroke="#DFE4F0" stroke-width="0.795909"/>
+<rect x="5.62085" y="4.7251" width="17.5896" height="17.55" fill="url(#pattern0)"/>
+<mask id="mask0_0_30" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="5" y="4" width="19" height="19">
+<rect x="5.62085" y="4.7251" width="17.5896" height="17.55" fill="url(#pattern1)"/>
+</mask>
+<g mask="url(#mask0_0_30)">
+<rect x="5.62085" y="4.7251" width="17.5896" height="17.55" fill="white"/>
+</g>
+<defs>
+<pattern id="pattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0_0_30" transform="scale(0.000592768)"/>
+</pattern>
+<pattern id="pattern1" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0_0_30" transform="scale(0.000592768)"/>
+</pattern>
+</defs>
+</svg>
