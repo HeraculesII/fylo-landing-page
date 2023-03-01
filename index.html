@@ -37,12 +37,20 @@
   </div>
   <div class="get-mail">
     <div class="mail-space">
-      <input class="mail-ad" type="email" id="email" name="email" placeholder="Enter your email" />
-  
+      <input type="email" id="email-input" name="email" placeholder="Enter your email" />
+      <div id="error-div">
+        <p class="error-p">
+          Check your e-mail
+        </p>
+        <p class="success-p">
+          E-mail sent
+        </p>
+      </div>
     </div>
-    <div class="get-started">
-      <input class="get" type="submit" value="Get Started" />
-    </div>
+
+      <button class="get" type="submit" id="submit-email" value="Get Started" >
+        Get Started
+      </button>
   </div>
 </div>
 </main>
@@ -100,12 +108,20 @@
         
         <div class="get-mail2">
           <div class="mail-space">
-            <input class="mail-ad2" type="email" id="email" name="email" placeholder="Enter your email" />
-        
+            <input class="mail-ad2" type="email" id="email-input1" name="email" placeholder="Enter your email" />
+            <div id="error-div1">
+              <p class="error-p">
+                Check your e-mail
+              </p>
+              <p class="success-p">
+                E-mail sent
+              </p>
+            </div>
           </div>
-          <div class="get-started">
-            <input class="get" type="submit" value="Get Started" />
-          </div>
+            <button class="get2" type="submit" id="submit-email1" value="Get Started" >
+              Get Started For Free
+            </button>
+
         </div>
       </div>
   </div>
@@ -153,5 +169,6 @@
 </div>
 
   </footer>
+  <script src="./script.js"></script>
 </body>
 </html>
